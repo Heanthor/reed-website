@@ -31,3 +31,10 @@ canonifyurls = true
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 4
     url = "/contact/"
+
+[social]
+twitter = "kh2reed"
+instagram = "reedt_photo"
+flickr = "kh2reed"
+linkedin = "reed-trevelyan-42247b168"
+github = "Heanthor"
